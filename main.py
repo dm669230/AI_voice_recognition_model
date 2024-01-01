@@ -20,4 +20,4 @@ def voice_recognize():
         except :
             return "there is no voice detected"
         
-voice_recognize()
+print(voice_recognize())
